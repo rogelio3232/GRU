@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE Mundo
+http://190.239.220.202:8000/play/a09m/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://190.239.220.202:8000/play/a075/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+http://190.239.220.202:8000/play/a07v/index.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://190.239.220.202:8000/play/a088/index.m3u8
+#EXTINF:0 tvg-id="America2.ar" group-title="Channels",America TV HD
+http://190.239.220.202:8000/play/a06b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",America TV PY
+http://190.239.220.202:8000/play/a07z/index.m3u8
+#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AmericaTV
+http://190.239.220.202:8000/play/a07t/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://190.239.220.202:8000/play/a09d/index.m3u8
+#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Channels",Canal Estrellas
+http://190.239.220.202:8000/play/a09p/index.m3u8
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Channels",Caracol HD
+http://190.239.220.202:8000/play/a09w/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network HD
+http://190.239.220.202:8000/play/a079/index.m3u8
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",Cinecanal HD
+http://190.239.220.202:8000/play/a074/index.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
+http://190.239.220.202:8000/play/a086/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DHE HD
+http://190.239.220.202:8000/play/a06j/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://190.239.220.202:8000/play/a09c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery H&H HD
+http://190.239.220.202:8000/play/a06s/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery HD
+http://190.239.220.202:8000/play/a06k/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID
+http://190.239.220.202:8000/play/a07o/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",Discovery Kids HD
+http://190.239.220.202:8000/play/a06r/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",Discovery Theater HD
+http://190.239.220.202:8000/play/a06t/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo
+http://190.239.220.202:8000/play/a08i/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
+http://190.239.220.202:8000/play/a073/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://190.239.220.202:8000/play/a09b/index.m3u8
+#EXTINF:0 tvg-id="E.mx" group-title="Channels",E Entertainment
+http://190.239.220.202:8000/play/a09f/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
+http://190.239.220.202:8000/play/a09i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 Latin
+http://190.239.220.202:8000/play/a09h/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
+http://190.239.220.202:8000/play/a08k/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
+http://190.239.220.202:8000/play/a07w/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
+http://190.239.220.202:8000/play/a06w/index.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN EXTRA HD
+http://190.239.220.202:8000/play/a076/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://190.239.220.202:8000/play/a068/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX Sports 2 HD
+http://190.239.220.202:8000/play/a06x/index.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+http://190.239.220.202:8000/play/a08a/index.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://190.239.220.202:8000/play/a070/index.m3u8
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network HD
+http://190.239.220.202:8000/play/a06a/index.m3u8
+#EXTINF:0 tvg-id="ESPN.nl" group-title="Channels",Fox Sports 1 HD
+http://190.239.220.202:8000/play/a06l/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",Fox Sports 2
+http://190.239.220.202:8000/play/a09q/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",Fox Sports 3
+http://190.239.220.202:8000/play/a09r/index.m3u8
+#EXTINF:0 tvg-id="france24" group-title="Channels",France 24
+http://190.239.220.202:8000/play/a07p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLPERU HD
+http://190.239.220.202:8000/play/a06d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV HD
+http://190.239.220.202:8000/play/a069/index.m3u8
+#EXTINF:0 tvg-id="GoldenHD.mx" group-title="Channels",Golden HD
+http://190.239.220.202:8000/play/a066/index.m3u8
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+http://190.239.220.202:8000/play/a07e/index.m3u8
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family HD
+http://190.239.220.202:8000/play/a06n/index.m3u8
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://190.239.220.202:8000/play/a077/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME HD
+http://190.239.220.202:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",History 2 HD
+http://190.239.220.202:8000/play/a06m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal D Drama HD
+http://190.239.220.202:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina
+http://190.239.220.202:8000/play/a07s/index.m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina HD
+http://190.239.220.202:8000/play/a06c/index.m3u8
+#EXTINF:0 tvg-id="LoveNature.nl" group-title="Channels",Love Nature HD
+http://190.239.220.202:8000/play/a06e/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV HD
+http://190.239.220.202:8000/play/a06h/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV LIVE HD
+http://190.239.220.202:8000/play/a07k/index.m3u8
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD
+http://190.239.220.202:8000/play/a065/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",Nat Geo HD
+http://190.239.220.202:8000/play/a072/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr
+http://190.239.220.202:8000/play/a08h/index.m3u8
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",Panamericana TV
+http://190.239.220.202:8000/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
+http://190.239.220.202:8000/play/a07a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
+http://190.239.220.202:8000/play/a07n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR TVE HD
+http://190.239.220.202:8000/play/a07l/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony
+http://190.239.220.202:8000/play/a087/index.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
+http://190.239.220.202:8000/play/a089/index.m3u8
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+http://190.239.220.202:8000/play/a07b/index.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
+http://190.239.220.202:8000/play/a07q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBS Very Funny HD
+http://190.239.220.202:8000/play/a06p/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://190.239.220.202:8000/play/a09n/index.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
+http://190.239.220.202:8000/play/a06z/index.m3u8
+#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",TV Peru
+http://190.239.220.202:8000/play/a07x/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+http://190.239.220.202:8000/play/a09s/index.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC
+http://190.239.220.202:8000/play/a09k/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL CHANNEL HD
+http://190.239.220.202:8000/play/a06u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaX
+http://190.239.220.202:8000/play/a09o/index.m3u8
+#EXTINF:0 tvg-id="Willax.pe" group-title="Channels",WILLAX
+http://190.239.220.202:8000/play/a07r/index.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
+http://190.239.220.202:8000/play/a09e/index.m3u8
